@@ -1,16 +1,17 @@
 
 
-export default function Navbar ( ){
+export default function Navbar() {
 
-<>
-<ul>
-    
-<a>About US </a>
-<a>Solutions</a>
-<a>Services</a>
-<a>Contact Us</a>
+    <>
 
-</ul>
-</>
+        <h1>DGD</h1>
+        <ul>
+            <a>About US </a>
+            <a>Solutions</a>
+            <a>Services</a>
+            <a>Contact Us</a>
+
+        </ul>
+    </>
 
 }
